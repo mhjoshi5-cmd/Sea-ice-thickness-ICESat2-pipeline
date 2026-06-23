@@ -67,7 +67,16 @@ The workflow integrates satellite remote sensing data, geophysical modeling, and
 - Processing workflow diagram
 - Sample CSV output
 
----
+## Related publication:
+
+Joshi, M., Mestas-Nuñez, A. M., Ackley, S. F., Arndt, S., Macdonald, G. J., & Haas, C. (2024).
+Seasonal and Interannual Variations in Sea Ice Thickness in the Weddell Sea, Antarctica (2019–2022)
+Using ICESat-2. Remote Sensing, 16(20), 3909.
+
+If you use this code, please cite:
+
+Joshi, M. (2026). Sea Ice Thickness Processing Pipeline (Version 1.0).
+GitHub: https://github.com/mhjoshi5-cmd/ICESat-2-Lidar-Processing-Pipeline_
 
 ## Author
 
