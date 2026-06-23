@@ -76,7 +76,8 @@ Using ICESat-2. Remote Sensing, 16(20), 3909.
 If you use this code, please cite:
 
 Joshi, M. (2026). Sea Ice Thickness Processing Pipeline (Version 1.0).
-GitHub: https://github.com/mhjoshi5-cmd/ICESat-2-Lidar-Processing-Pipeline
+GitHub: https://github.com/mhjoshi5-cmd/ICESat-2-Lidar-Processing-Pipeline_
+/Sea ice thickness_IS2.py
 
 ## Author
 
