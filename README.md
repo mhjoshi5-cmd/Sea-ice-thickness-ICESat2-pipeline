@@ -6,6 +6,8 @@ Python pipeline to process ICESat-2 satellite data and estimate sea ice thicknes
 
 This project implements a Python-based geospatial data pipeline to process ICESat-2 satellite observations and estimate sea ice thickness using hydrostatic balance equations. These estimations were compared with ship based EM data and snowbuoy data from 2019-2024. 
 #### Field comparisons were conducted using the buffer analysis tool in ArcGIS Pro and a minimum-distance criterion to select IS2 data points closest to the field measurements for comparative analysis.
+  - Field Data used for snow depth and sea ice thickness are from 2019,2021 and 2022. A GPS-equipped Magna Probe with a horizontal resolution of 1–2 m was used to measure snow depth. The total sea ice thickness was measured using ground-based multi-frequency electromagnetic induction measurements. More details can be found in the publication mentioned below as well as follwing links: a. https://doi.pangaea.de/10.1594/PANGAEA.929010, b. https://doi.pangaea.de/10.1594/PANGAEA.946177
+
 This pipeline demonstrates only ICESat-2 ATL10 data. 
 
 The workflow integrates satellite remote sensing data, geophysical modeling, and automated batch processing to generate analysis-ready environmental datasets.
