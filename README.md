@@ -1,5 +1,5 @@
 # Sea-ice-thickness-ICESat2-pipeline
-Python pipeline to process ICESat-2 satellite data and estimate sea ice thickness using geophysical models and ERA5 forcing.
+Python pipeline to process ICESat-2 satellite data and estimate sea ice thickness using Improved Buoyancy equation.
 # Sea Ice Thickness Processing Pipeline
 
 ## Overview
@@ -23,8 +23,7 @@ The workflow integrates satellite remote sensing data, geophysical modeling, and
 ## Data Sources
 
 - ICESat-2 (ATL10 Freeboard Products)
-- ERA5 atmospheric reanalysis (for model context)
-- Ancillary geospatial datasets
+  
 
 ---
 
