@@ -24,6 +24,12 @@ The workflow integrates satellite remote sensing data, geophysical modeling, and
 ## Data Sources
 
 - ICESat-2 (ATL10 Freeboard Products)
+- For each ATL10 file, the following variables are extracted:
+  1. Freeboard height
+  2. Along-track distance
+  3. Latitude
+  4. Longitude
+  5. Height-segment length
   
 
 ---
