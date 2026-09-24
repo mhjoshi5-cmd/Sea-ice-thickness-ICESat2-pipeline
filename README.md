@@ -67,9 +67,9 @@ The workflow integrates satellite remote sensing data, geophysical modeling, and
 ---
 
 ## Example Output
-- Sea ice thickness maps
+- Sea ice freeboard maps
 - Processing workflow diagram
-- Sample CSV output
+- Sample CSV output (Western Weddell Jan 2024 CSV file. Contains lat,lon,freeboard, segment-length and thickness)
 
 ## Related publication:
 
