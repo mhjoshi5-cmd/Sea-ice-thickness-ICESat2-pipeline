@@ -1,4 +1,4 @@
-# Sea ice thickness ICESat2 pipeline
+# Sea ice thickness ICESat-2 pipeline
 Python pipeline to process ICESat-2 satellite data and estimate sea ice thickness using Improved Buoyancy equation.
 
 
