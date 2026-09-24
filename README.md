@@ -4,7 +4,8 @@ Python pipeline to process ICESat-2 satellite data and estimate sea ice thicknes
 
 ## Overview
 
-This project implements a Python-based geospatial data pipeline to process ICESat-2 satellite observations and estimate sea ice thickness using hydrostatic balance equations. These estimations were compared with ship based EM data and snowbuoy data from 2019-2024. The field comparisons were performed using ArcGIS Pro.
+This project implements a Python-based geospatial data pipeline to process ICESat-2 satellite observations and estimate sea ice thickness using hydrostatic balance equations. These estimations were compared with ship based EM data and snowbuoy data from 2019-2024. 
+### Field comparisons were conducted using the buffer analysis tool in ArcGIS Pro and a minimum-distance criterion to select IS2 data points closest to the field measurements for comparative analysis.
 This pipeline demonstrates only ICESat-2 ATL10 data. 
 
 The workflow integrates satellite remote sensing data, geophysical modeling, and automated batch processing to generate analysis-ready environmental datasets.
